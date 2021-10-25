@@ -1,17 +1,19 @@
 {
     "name": "landofcoder/module-seller-cashfree-checkout-magento2",
     "description": "Cashfree payment gateway extension for magento 2 by landofcoder",
-    "require": {  
-      "landofcoder/module-cashfree-checkout-magento2": "*",
-      "landofcoder/module-marketplace": "*"
+    "require": {
+      "gocashfree/cashfree-magento": "*"
     },
     "keywords": [
-      "cashfree", 
+      "cashfree",
       "magento",
-      "payments", "india",
-      "payment gateway", 
-      "wallets", 
-      "netbanking"
+      "payments",
+      "india",
+      "payment gateway",
+      "wallets",
+      "netbanking",
+      "magento 2 marketplace",
+      "magento 2 multi vendor"
     ],
     "homepage": "https://landofcoder.com",
     "support": {

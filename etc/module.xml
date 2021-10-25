@@ -4,7 +4,7 @@
     <module name="Lofmp_Cfcheckout" setup_version="1.0.0">
         <sequence>
             <module name="Lof_MarketPlace"/>
-            <module name="Lof_Cfcheckout"/>
+            <module name="Cashfree_Cfcheckout"/>
         </sequence>
     </module>
 </config>
