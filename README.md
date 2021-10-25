@@ -6,5 +6,5 @@ payment method [Cashfree](https://cashfree.com/)
 
 # Require extensions
 
-- [Landofcoder Cashfree Payment method](https://github.com/landofcoder/module-cfcheckout-payment-magento2)
+- [Cashfree Payment method](https://github.com/cashfree/cashfree-magento)
 - [Landofcoder Multi Vendor Marketplace Extension](https://landofcoder.com/magento-2-marketplace-extension.html/)
